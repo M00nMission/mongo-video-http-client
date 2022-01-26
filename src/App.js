@@ -49,7 +49,7 @@ function App() {
             watch
           </p>
           <video id="videoPlayer" width="650" controls muted="muted" autoplay>
-            <source src="https://mongo-video-http-server.vercel.app/" type="video/mp4" />
+            <source src="https://mongo-video-http-server.vercel.app/mongo-video" type="video/mp4" />
           </video>
           <i>dui_lol</i>
         </body>
